@@ -28,29 +28,36 @@
         "tilemapTile": true,
         "displayName": "myTile4"
     },
-    "tile8": {
-        "data": "hwQQABAAAAAf////H///////////////////////8f///////x8R//////////H/8f///////////////////7u7+x////8fu7u7//////+7u7v7/////7u7u7v/////u7u7u/v///+7u7u7+////7u7u7v7////u7u7u/v///+7u7u7+///Hw==",
-        "mimeType": "image/x-mkcd-f4",
-        "tilemapTile": true,
-        "displayName": "myTile6"
-    },
     "tile9": {
-        "data": "hwQQABAAAAC7u7u7H////7u7u7v/////u7u7u///8f+7u7u7/x8R/7u7u/v///H/u7u7+/////+7u7v//////7u7/x////8fH/////////8R8f///////x/////////////////////////////////////////////////////////x////Hw==",
+        "data": "hwQQABAAAAC7u7u7u////7u7u7u7////u7u7u7v/8f+7u7u7+x8R/7u7u7v7//H/u7u7u/////+7u7v7/////7u7ux////8fu7v7//////+7+////////x/////////////////////////////////////////////////////////x////Hw==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile7"
     },
+    "tile2": {
+        "data": "hwQQABAAAAAf//+/u7u7u////7+7u7u7////v7u7u7v///+/u7u7u////7+7u7u78f///7u7u7v/////v7u7u////x//u7u7H/////+/u7sR8f///////x/////////////////////////////////////////////////////////x////Hw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile8": {
+        "data": "hwQQABAAAAAf////H///////////////////////8f///////x8R//////////H/8f////////+7+////////7u7+x////8fu7u7//////+7u7v7/////7u7u7v/////u7u7u/v///+7u7u7+////7u7u7u7////u7u7u7v///+7u7u7u///Hw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile6"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAzMDMwMjAyMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMDMwMjAyMDIwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMzAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAzMDEwMTAxMDEwMTAxMDEwMTAzMDIwMjAyMDIwMjAzMDMwMTAxMDEwMTAxMDEwMTAxMDMwMzAyMDIwMjAzMDMwMzAxMDEwMTAxMDEwMTAxMDEwMjAzMDIwMjAyMDMwMzAzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA2MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA0MDUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAzMDMwMjAyMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMDMwMjAyMDIwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMzAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAzMDEwMTAxMDEwMTAxMDEwMTAzMDIwMjAyMDIwMjAzMDMwMTAxMDEwMTAxMDEwMTAxMDMwMzAyMDIwMjAzMDMwMzAxMDEwMTAxMDEwMTAxMDEwMjAzMDIwMjAyMDMwMzAzMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
         "tileset": [
             "myTiles.transparency16",
             "myTiles.tile4",
             "myTiles.tile5",
             "myTiles.tile6",
             "myTiles.tile8",
-            "myTiles.tile9"
+            "myTiles.tile9",
+            "myTiles.tile2"
         ],
         "displayName": "level1"
     },

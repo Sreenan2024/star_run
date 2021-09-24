@@ -22,7 +22,7 @@ controller.moveSprite(star)
 star.setStayInScreen(true)
 info.setScore(0)
 info.startCountdown(120)
-game.onUpdateInterval(5000, function () {
+game.onUpdateInterval(350, function () {
     projectile = sprites.createProjectileFromSide(img`
         . . . . . . . . . . . . . . . . 
         . . . c c c b b b . . . . . . . 
